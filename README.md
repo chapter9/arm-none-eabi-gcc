@@ -26,7 +26,7 @@ Using the following commands to expose the debugger:
     load build/F303K8Tx_SPI.elf
     monitor adapter speed 4000
 
-## Visual Studio Code remove debugging:
+## Visual Studio Code remote debugging:
 
 ```
 {
